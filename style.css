@@ -6,7 +6,7 @@ body{
     font-family: "Yanone Kaffeesatz", sans-serif;
     background-color: #faedcd;
     color: #e63946;
-    font-size: 28px;
+    font-size: 32px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,4 +90,9 @@ body{
         -ms-transform: rotate(450deg);
         -o-transform: rotate(450deg);
 }
+}
+span{
+    position: absolute;
+    top: 130px;
+    left: 19px;
 }
